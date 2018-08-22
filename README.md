@@ -7,7 +7,7 @@ This simple React application was created to show how styled components can help
 in your terminal, use the following to get source code
 
 ```
-$git clone ....repo links
+$git clone https://github.com/yangarnet/styled-component.git
 ```
 
 ### get started
