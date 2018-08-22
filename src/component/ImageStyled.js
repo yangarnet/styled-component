@@ -15,7 +15,7 @@ export const StyledImage = styled(Image)`
     `};
 `;
 
-export const StyledHeader = styled("h1")`
+export const StyledHeader = styled.h1`
     float: left;
     padding-top: 0.2pc;
     padding-left: 1pc;
